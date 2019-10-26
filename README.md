@@ -1,7 +1,7 @@
 1.Download
  git clone https://github.com/wms-code/AdvanceBodyGlove.git
 
-2. Run copy.env.example .env 
+2. Run copy .env.example .env 
 
 3. Run composer install
 
